@@ -1,8 +1,9 @@
 # laravel-template
-Create .env file and generate key
+ ** Create .env file and generate key
     artisan key:generate
-Composer : 
+    
+** Composer : 
 composer install
 
-NPM:
+** NPM:
 npm install
